@@ -1,5 +1,5 @@
 <h1>0x04. Files manager</h1>
-<ul>technologies
+<ul><u><b>Technologies</b></u>
 <li>JavaScript</li>
 <li>NoSQL</li>
 <li>MongoDB</li>
